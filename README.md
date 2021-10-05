@@ -1,4 +1,4 @@
-## Programador e artista dedicado a criar experiências de entretenimento divertidas e, sempre que possível, inteligentes e inovadores!
+## Dedico-me a criar experiências de entretenimento divertidas e, sempre que possível, inteligentes e inovadores!
 
 <!-- GitHub Stats -->
 <div align="center">
