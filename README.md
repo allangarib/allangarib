@@ -1,4 +1,4 @@
-## Dedico-me a criar experiências de entretenimento divertidas e, sempre que possível, inteligentes e inovadores!
+## Dedico-me a criar experiências de entretenimento divertidas e, sempre que possível, inteligentes e inovadoras!
 
 <!-- GitHub Stats -->
 <div align="center">
