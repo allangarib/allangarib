@@ -1,4 +1,4 @@
-## Oi, eu sou o Allan! Desenvolvedor de games, artista e criador de conteúdo!
+## Programador e artista dedicado a criar experiências de entretenimento divertidas e, sempre que possível, inteligentes e inovadores!
 
 <!-- GitHub Stats -->
 <div align="center">
