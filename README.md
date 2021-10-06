@@ -12,12 +12,12 @@
 <!-- Linguagens que eu sei -->
 <div style="display: inline_block"><br>
   <img align="center" alt="logo-C" height="40" width="40" src="https://img.icons8.com/color/50/000000/c-programming.png">
-  <img align="center" alt="logo-C++" height="40" width="40" src="https://img.icons8.com/color/50/000000/c-plus-plus-logo.png">
+  <img align="center" alt="logo-C++" height="36" width="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/256px-ISO_C%2B%2B_Logo.svg.png">
   <img align="center" alt="logo-C#" height="40" width="40" src="https://img.icons8.com/color/50/000000/c-sharp-logo-2.png">    
   <!-- <img align="center" alt="Allan-C#" height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Csharp_Logo.png"> -->
   <img align="center" alt="logo-Java" height="40" width="40" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png">
   <!-- <img align="center" alt="logo-Python" height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/64px-Python-logo-notext.svg.png"> --> 
-  <img align="center" alt="logo-HTML5" height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/512px-HTML5_logo_and_wordmark.svg.png"/>
+  <img align="center" alt="logo-HTML5" height="36" width="36" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/512px-HTML5_logo_and_wordmark.svg.png"/>
   </a>
 </div>
   
