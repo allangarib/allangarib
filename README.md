@@ -1,7 +1,7 @@
 ## Oi, eu sou o Allan! Dedico-me a criar experiências de entretenimento divertidas e, sempre que possível, inteligentes e inovadoras! 💻🤓🎮 
 <!-- Atalho: "windows" + "." = tabela de emojis -->
 
-<!-- GitHub Stats -->
+<!-- GitHub Stats & Most Used Languages -->
 <div align="center">
   <a href="https://github.com/allangarib">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=allangarib&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -9,12 +9,15 @@
   </a> 
   <!-- mudar para src="https://github-readme-stats.vercel.app/api/top-langs/?username=allangarib&layout=compact&langs_count=7&theme=dracula" qndo tiver postado algo -->
 </div>
-<!-- Most Used Languages -->
+<!-- Linguagens que sei -->
 <div style="display: inline_block"><br>
-  <img align="center" alt="Allan-C" height="40" width="40" src="https://img.icons8.com/color/50/000000/c-programming.png">
-  <img align="center" alt="Allan-C++" height="40" width="40" src="https://img.icons8.com/color/50/000000/c-plus-plus-logo.png">
-  <img align="center" alt="Allan-C#" height="40" width="40" src="https://img.icons8.com/color/50/000000/c-sharp-logo-2.png">
-  <img img align="center" alt="Allan-Java" height="40" width="40" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"/>
+  <img align="center" alt="logo-C" height="40" width="40" src="https://img.icons8.com/color/50/000000/c-programming.png">
+  <img align="center" alt="logo-C++" height="40" width="40" src="https://img.icons8.com/color/50/000000/c-plus-plus-logo.png">
+  <img align="center" alt="logo-C#" height="40" width="40" src="https://img.icons8.com/color/50/000000/c-sharp-logo-2.png">    
+  <!-- <img align="center" alt="Allan-C#" height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Csharp_Logo.png"> -->
+  <img align="center" alt="logo-Java" height="40" width="40" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png">
+  <img align="center" alt="logo-HTML5" height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/512px-HTML5_logo_and_wordmark.svg.png"/>
+  </a>
 </div>
   
   ##
