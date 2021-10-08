@@ -1,4 +1,4 @@
-## Oi, eu sou o Allan! Dedico-me a criar experiências de entretenimento divertidas e, sempre que possível, inteligentes e inovadoras! 💻🤓🎮 
+## Oi, eu sou o Allan! Dedico-me a criar experiências de entretenimento divertidas e, sempre que possível, inteligentes e inovadoras! 💻😍🎮 
 <!-- Atalho: "windows" + "." = tabela de emojis -->
 
 <!-- GitHub Stats & Most Used Languages -->
